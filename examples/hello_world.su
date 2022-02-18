@@ -1,4 +1,4 @@
-// Export this file as 'hello_world'
+// Export this file as 'hello_world' module
 export hello_world;
 
 // Import all public stuff from IO module
