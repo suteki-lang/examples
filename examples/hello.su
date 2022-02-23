@@ -1,0 +1,7 @@
+import std.io;
+
+int main()
+{
+    writeln("Hello World!");
+    return 0;
+}
